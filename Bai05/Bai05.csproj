@@ -52,19 +52,19 @@
     <Compile Include="Form01.Designer.cs">
       <DependentUpon>Form01.cs</DependentUpon>
     </Compile>
-    <Compile Include="PopUp.cs">
+    <Compile Include="Form02.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PopUp.Designer.cs">
-      <DependentUpon>PopUp.cs</DependentUpon>
+    <Compile Include="Form02.Designer.cs">
+      <DependentUpon>Form02.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form01.resx">
       <DependentUpon>Form01.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PopUp.resx">
-      <DependentUpon>PopUp.cs</DependentUpon>
+    <EmbeddedResource Include="Form02.resx">
+      <DependentUpon>Form02.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
